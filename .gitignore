@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/shapes
+shapes.so
+shapes.dylib
+shapes.dll
+shapes.a
+shapes.lib
+shapes-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,6 @@
+{
+    "dscanner.ignoredKeys": [
+        "dscanner.style.undocumented_declaration",
+        "dscanner.suspicious.unmodified"
+    ]
+}

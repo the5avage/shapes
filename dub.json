@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"René Heldmaier"
+	],
+	"copyright": "Copyright © 2019, René Heldmaier",
+	"dependencies": {
+	},
+	"description": "Render shapes with bresenham algorithm and ranges.",
+	"license": "MIT",
+	"name": "shapes"
+}
